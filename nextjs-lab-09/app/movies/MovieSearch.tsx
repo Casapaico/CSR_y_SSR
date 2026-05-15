@@ -56,4 +56,3 @@ export default function MovieSearch({ apiKey }: { apiKey: string }) {
     </div>
   )
 }
-npx tsc --noEmit 2>&1 | head -50
